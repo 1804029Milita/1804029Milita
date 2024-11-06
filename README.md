@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishat</h1>
 <h3 align="center">A passionate individual who loves building web application</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1804029milita&label=Profile%20views&color=0e75b6&style=flat" alt="1804029milita" /> </p>
-
 - 🔭 I’m currently working on **web development technologies like Javascript, React etc**
 
 - 🌱 I’m currently learning **everything about frontend and backend technologies**
