@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nishat</h1>
-<h3 align="center">A passionate individual who loves building web application</h3>
+<h3 align="center">A passionate individual who loves building mobile application</h3>
 
-- 🔭 I’m currently working on **web development technologies like Javascript, React etc**
+- 🔭 I’m currently working on **app development,web development technologies like Javascript, React etc**
 
 - 🌱 I’m currently learning **everything about frontend and backend technologies**
 
 - 👯 I’m looking to collaborate on **project related to web**
 
-- 📝 Improving my skill **about html,css,javascript**
+- 📝 Improving my skill **about dart, html,css,javascript**
 
 - 📫 How to reach me **1804029nishat@gmail.com**
 
